@@ -7,6 +7,7 @@ Currently working as a React developer, eager to grow as a frontend engineer.
 Some of the tools I use the most on a daily basis:
 
 - [React](https://es.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Redux](https://react-redux.js.org/)
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
